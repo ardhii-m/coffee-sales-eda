@@ -1,0 +1,6 @@
+date: Date of purchasing
+datetime: Datetime of purchasing
+cash_type: Cash or card purchasing
+card: Anonymous card number
+money: Amount of money in Ukrainian hryvnias (UAH)
+coffee_name: Coffee type
